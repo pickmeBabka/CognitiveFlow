@@ -1,0 +1,3 @@
+[submodule "src/Abstractions"]
+	path = src/Abstractions
+	url = https://github.com/pickmeBabka/CognitiveFlow.Abstractions.git
