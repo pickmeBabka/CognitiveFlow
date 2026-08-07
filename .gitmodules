@@ -7,3 +7,6 @@
 [submodule "src/Infrastructure"]
 	path = src/Infrastructure
 	url = https://github.com/pickmeBabka/CognitiveFlow.Infrastructure.git
+[submodule "Database"]
+	path = Database
+	url = https://github.com/pickmeBabka/CognitiveFlow.Database.git
